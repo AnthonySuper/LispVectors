@@ -1,0 +1,3 @@
+The code contained in this repository is hearby released into the public domain.
+
+I, the author, provide this code with ABSOLUTELY NO guarantee or warranty, explicit or implied. Use at your own risk.
